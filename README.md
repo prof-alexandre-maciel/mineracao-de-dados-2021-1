@@ -1,2 +1,9 @@
-# mineracao-de-dados-2021-1
-Repositório da cadeira de Mineração de Dados - Turma 2021.1
+# Mineração de Dados 2021.1
+
+## Projetos
+
+### GRUPO 1
+
+### GRUPO 2
+
+### GRUPO 3
